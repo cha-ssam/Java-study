@@ -10,3 +10,4 @@ public class ElectricCar extends Car {
         System.out.println("충전합니다.");
     }
 }
+
